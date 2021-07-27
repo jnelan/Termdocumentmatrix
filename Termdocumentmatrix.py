@@ -2,13 +2,9 @@
 """
 Created on Wed Jun  3 21:09:05 2020
 
-@author: James Nelan (jn359818)
+@author: James Nelan
 """
 
-# HW5
-
-###########################################################################
-#1.)
 
 # The below code will import the packages needed for this problem
 import nltk
